@@ -1,0 +1,1 @@
+g++ irb-hash.cpp -o irb-hash
