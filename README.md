@@ -7,7 +7,7 @@
 ---
 To compile, download and run build.sh.
 
-`sudo sh build.sh`
+Run: `sudo sh build.sh`
 ---
 
 Hashing a file takes a blocksize, a file input, and a file output arguement.
