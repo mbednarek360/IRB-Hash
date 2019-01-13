@@ -8,7 +8,7 @@
 
 To compile, download and run build.sh.
 
-`./build.sh`
+`sh build.sh`
 
 ---
 
